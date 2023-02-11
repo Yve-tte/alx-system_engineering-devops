@@ -1,2 +1,2 @@
-i#!/bin/bash
-Chown -hR vincent:staff .
+#!/bin/bash
+chgrp school hello
